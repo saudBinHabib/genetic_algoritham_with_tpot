@@ -1,0 +1,5 @@
+matplotlib==2.2.2
+numpy==1.15.4
+pandas==0.22.0
+sklearn
+tpot==0.9.5
